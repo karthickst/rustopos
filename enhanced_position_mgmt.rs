@@ -1,3 +1,5 @@
+//Prompt : can you add AMEND trade based on date and build position map based on date passed
+
 use std::collections::HashMap;
 use chrono::NaiveDate;
 
